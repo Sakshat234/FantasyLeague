@@ -1,0 +1,1 @@
+Database project using python and PostgreSql. It is a Fantasy League where you can select players based on their stats, compare the and form your own playing 11 and win points based on their matchday performance.
